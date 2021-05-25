@@ -1,3 +1,5 @@
 This is a file in slave
 
+
 This is new line Green.
+
