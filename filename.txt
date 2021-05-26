@@ -5,3 +5,7 @@ This is new line Green.
 
 
 Now Git and GitHub both are ready to go!!!
+
+
+master git stash chages :)
+
