@@ -9,5 +9,5 @@ Checking git stash example.
 Now Git and GitHub both are ready to go!!!
 
 
-master git stash chages :)
+master git stash changes :)
 
